@@ -1,0 +1,11 @@
+[theme]
+base="dark"
+primaryColor="#1DB954"
+backgroundColor="#0E1117"
+secondaryBackgroundColor="#262730"
+textColor="#FAFAFA"
+font="sans serif"
+
+[server]
+wideMode = true
+runOnSave = true    # 本地保存即热重载
